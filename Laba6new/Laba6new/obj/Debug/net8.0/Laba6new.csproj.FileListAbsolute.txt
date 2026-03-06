@@ -1,0 +1,14 @@
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\bin\Debug\net8.0\Laba6new.exe
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\bin\Debug\net8.0\Laba6new.deps.json
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\bin\Debug\net8.0\Laba6new.runtimeconfig.json
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\bin\Debug\net8.0\Laba6new.dll
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\bin\Debug\net8.0\Laba6new.pdb
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.AssemblyInfoInputs.cache
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.AssemblyInfo.cs
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.csproj.CoreCompileInputs.cache
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.dll
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\refint\Laba6new.dll
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.pdb
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\Laba6new.genruntimeconfig.cache
+C:\Users\bukatnikov\source\repos\Laba6new\Laba6new\obj\Debug\net8.0\ref\Laba6new.dll
